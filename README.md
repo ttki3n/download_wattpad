@@ -1,2 +1,2 @@
 # download_wattpad
-download wattpad stories
+download wattpad stories, chapters 
